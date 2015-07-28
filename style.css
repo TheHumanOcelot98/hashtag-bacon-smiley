@@ -25,9 +25,12 @@
     float:left;
     background-color:#6495ed;
     margin-top:100px;
-    height:355px;
+    height:400px;
     width:250px;
     border-radius:10px;
+	margin-bottom:0px;
+	display:inline;
+	border:3px solid navy;
 }.description{
     font-family:Arial;
     color:navy;
@@ -35,7 +38,7 @@
 }#tebp{
     height:100px;
     float:left;
-    margin-top:10px;
+    margin-top:4px;
 	clear:both;
 	margin-right:0px;
 }button{
@@ -47,11 +50,12 @@
     font-size:20px;
     background-color:#649;
     border:solid 5px navy;
-    float:right;
-    margin-top:100px;
+    margin-top:-300px;
+	margin-left:-400px;
 	}#ho{
 	height:100px;
-	margin-top:480px;
+	margin-top:510px;
 	clear:both;
-	margin-left:5px;
+	margin-left:-100px;
+	margin-right:500px;
 	}
